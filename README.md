@@ -40,16 +40,18 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5d2b90?style=for-the-badge&labelColor=black&logo=visual-studio&logoColor=5d2b90)
 
 <br/>
-<hr/>
-<br/>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swan0094&theme=radical&border=7F3FBF&background=0D1117" alt="Alex Swan's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swan0094&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swan0094&theme=radical" alt="Alex Swan's GitHub Contribution"/>
+  <img 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=swan0094&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+    height="190px"
+  />
 </p>
 
-<img alt="Alex Swan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=swan0094&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-<img alt="Alex Swan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=swan0094&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swan0094&theme=radical" alt="GitHub profile summary"/>
+</p>
