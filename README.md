@@ -1,30 +1,40 @@
 <h3 align="center">
-  <samp>&gt; Hey, I’m Alex Swan</samp>
+  <samp>&gt; Hey, I'm Alex Swan</samp>
 </h3>
 
 <p align="center">
   <samp>
     「 Full-stack developer based in <b>Adelaide, Australia</b> 」
     <br><br>
-    I build web, mobile and desktop apps with a focus on clean architecture, performance and real-world usability.
+    Close to a decade building web, mobile and desktop apps, with a focus on clean architecture, performance and real-world usability.
     <br>
     Flutter first, then Vue/Nuxt and React/Next.js, with Node and C#/.NET on the back end.
+    <br><br>
+    I like shipping software that people open every day: quoting tools, job tracking, dashboards and offline-first apps.
   </samp>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alex-swan-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://handcoded.com.au"><img src="https://img.shields.io/badge/Handcoded-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Handcoded"/></a>
+  <a href="https://www.linkedin.com/in/alex-swan-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## WHAT I'M WORKING ON
 
-- 🧩 **Full-stack developer at Claras**: Node and React, deployed on Vercel
-- 🐄 **BreedELITE**: rebuilding a FileMaker platform as an offline-first Flutter desktop app
-- 🛠️ **[Handcoded](https://handcoded.com.au)**: my own studio building custom websites, web apps and mobile apps for small businesses
-- 🤖 Building with AI: LLM features in production, plus an AI-powered weather app on the side
+- 🛠️ **[Handcoded](https://handcoded.com.au)**: my own studio, building custom software, web apps, mobile apps and websites for small Australian businesses. Clients own their code.
+- 🧩 **Full-stack developer at Claras**: a custom AI web app built with Node and React, deployed on Vercel
+- 🐄 **BreedELITE**: rebuilding a FileMaker platform as an offline-first Flutter desktop app for Windows and macOS
+- 📦 **Stow**: marketing website, custom admin portal and custom mobile app
+- 🤖 **Building with AI**: LLM features in production, plus an AI-powered weather app on the side
 
 > Most of my work lives in private client repos, so the graph below counts private contributions.
+
+## HOW I WORK
+
+- 🏗️ Clean, maintainable architecture over quick hacks
+- 📱 Offline-first and cross-platform where it makes sense
+- ⚡ Fast, accessible interfaces that hold up on real devices
+- 🔑 Code, hosting and logins in the client's name
 
 ## SKILLSET
 
@@ -35,6 +45,7 @@
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&labelColor=black&logo=nuxt&logoColor=00DC82)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&labelColor=black&logo=astro&logoColor=BC52EE)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
@@ -45,24 +56,25 @@
 ![CSharp](https://img.shields.io/badge/C%23-800080?style=for-the-badge&labelColor=black&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=512BD4)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-BD6719?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&labelColor=black&logo=stripe&logoColor=635BFF)
 
 ### DevOps & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&labelColor=black&logo=cloudflare&logoColor=F38020)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&labelColor=black&logo=azure-devops&logoColor=0078D7)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&labelColor=black&logo=github-actions&logoColor=2088FF)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&labelColor=black&logo=linear&logoColor=5E6AD2)
 ![Cursor](https://img.shields.io/badge/Cursor-ffffff?style=for-the-badge&labelColor=black&logo=cursor&logoColor=white)
 
 <br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=swan0094&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=swan0094&show_icons=true&count_private=true&include_all_commits=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190px" alt="GitHub stats"/>
 </p>
